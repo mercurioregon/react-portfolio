@@ -6,7 +6,22 @@
 
 }
 .Navigation{
-  text-align: right;
+  text-align: center;
   display: flex;
   gap: 5px;
+  height: 3em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: larger;
+
+
+}
+
+.header {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  display: flex;
+  background-color: aliceblue;
+  height: 3em;
+}
+.portfoliolinks {
+  height: 10em;
 }

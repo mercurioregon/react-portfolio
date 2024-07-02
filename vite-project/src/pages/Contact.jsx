@@ -1,7 +1,8 @@
 const Contact = () => {
     return (
         <div>
-            Contact
+           jamesm620@gmail.com
+           Git: mercurioregon
         </div>
     )
 }
