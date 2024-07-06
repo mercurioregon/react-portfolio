@@ -1,3 +1,5 @@
+import snowtrees from "...snowtrees.jpg"
+
 const Contact = () => {
     return (
         <div>
