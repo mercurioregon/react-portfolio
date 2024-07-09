@@ -1,5 +1,8 @@
 .pagetext {
-    color: yellow;
-    background: aliceblue;
-
+    color: rgb(11, 12, 12);
+    background: rgb(186, 233, 192);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    background-size: 15px;
 }
+

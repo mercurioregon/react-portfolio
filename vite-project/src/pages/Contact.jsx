@@ -1,4 +1,7 @@
-import snowtrees from "...snowtrees.jpg"
+// import snowtrees from "...snowtrees.jpg"
+
+
+
 
 const Contact = () => {
     return (

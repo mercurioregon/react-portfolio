@@ -5,6 +5,11 @@
   width: 100%;
 
 }
+
+.footer {
+  height: 3em;
+}
+
 .Navigation{
   text-align: center;
   display: flex;
@@ -26,7 +31,6 @@
   height: 10em;
 }
 
-.pagetext{
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: x-large;
+.footer {
+  height: 3em;
 }
