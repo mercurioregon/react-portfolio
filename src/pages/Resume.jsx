@@ -1,6 +1,7 @@
 const Resume = () => {
     return (
         <div>
+            
             JAMES J. MERCURIO  
              JAMESM620@GMAIL.COM
 
